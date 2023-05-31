@@ -12,7 +12,7 @@ Dane przestrzenne zostały pobrane z zasobu udostępnionego przez prowadzącego.
 Dane astronomiczne zostały obliczone za pomocą biblioteki Astral na podstawie danych przestrzennych
 oraz statystycznych.
 
-![image](https://user-images.githubusercontent.com/92334838/224982857-196f1574-308b-4ebe-8794-069efcd703e8.png)
+![image](https://github.com/MariaMank/PAG_1/assets/92314221/aa6e0234-19a6-4fec-aa26-d29451f93507)
 
 Aplikacja pobiera dane z linku lub z bazy, które następnie przetwarza i, w zależności od wybranej opcji,
 zapisuje do wybranej bazy danych. Wartości obliczonych statystyk - średniej i mediany
