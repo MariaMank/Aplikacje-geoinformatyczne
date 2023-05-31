@@ -1,4 +1,4 @@
-# Programowanie_Aplikacji_Geoinformacyjnych
+# Programowanie Aplikacji Geoinformacyjnych
 
 Projekt został wykonany grupowo w celu zaliczenia przedmiotu Programowanie Aplikacji Geoinformacyjnych.
 
